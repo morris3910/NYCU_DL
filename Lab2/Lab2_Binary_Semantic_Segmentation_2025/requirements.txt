@@ -1,0 +1,9 @@
+os : x64 win11 professional
+cpu : AMD
+gpu : NVDIA
+pytorch version : 2.5.1
+CUDA version : 12.7
+python version : 3.12.3
+vscode version : 1.98
+conda version : 24.9.2
+conda-build version : 24.5.1
